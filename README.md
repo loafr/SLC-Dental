@@ -1,0 +1,1 @@
+This is a project to replicate the http://www.slcdentalcenter.com/ website using responive design
